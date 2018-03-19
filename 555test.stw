@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=f_det.stp
+Dependencies=
+[Options]
+ActiveProject=f_det
+ActiveConfig=Debug
+AddSortedElements=1
